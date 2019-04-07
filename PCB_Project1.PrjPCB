@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Altium\pcb\History\00000000370B04F0\YUANLITU (1).~(20).SchDoc
+DocumentPath=YUANLITU (1).~(20).~(1).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,57 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DRWBIFEU
 
 [Document2]
-DocumentPath=..\Altium\PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HQEMBRHA
-
-[Document3]
-DocumentPath=..\Altium\3013.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUWODQKH
-
-[Document4]
-DocumentPath=..\Altium\1930\1930.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LABYGMAV
-
-[Document5]
 DocumentPath=..\Altium\79l05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,8 +71,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFNDTOEU
 
-[Document6]
-DocumentPath=..\Altium\63700\63700.PcbLib
+[Document3]
+DocumentPath=封装库\1930.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LJAVYOAQ
+DocumentUniqueId=LABYGMAV
 
-[Document7]
-DocumentPath=..\Altium\OPA656\opa656.PcbLib
+[Document4]
+DocumentPath=封装库\opa656.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -156,8 +105,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCHHAJSE
 
-[Document8]
-DocumentPath=..\Altium\s13720.PcbLib
+[Document5]
+DocumentPath=封装库\s13720.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -173,7 +122,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDBYMSIE
 
-[Document9]
+[Document6]
+DocumentPath=封装库\3013.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UUWODQKH
+
+[Document7]
 DocumentPath=..\Altium\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,9 +154,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VDCJWNCT
+DocumentUniqueId=RICAOKUN
 
-[Document10]
+[Document8]
 DocumentPath=..\Altium\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,8 +173,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AINCFCKT
 
-[Document11]
-DocumentPath=..\Altium\History\00000000370B04F0\78L05.~(5).SchLib
+[Document9]
+DocumentPath=原理图库\78L05.~(5).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -224,8 +190,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXECJITB
 
+[Document10]
+DocumentPath=原理图库\LT3013.~(1).SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGXQUPMV
+
+[Document11]
+DocumentPath=原理图库\MPPC_S13720-1325PS (1).~(1).SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BYIRFWPV
+
 [Document12]
-DocumentPath=..\Altium\History\00000000370B04F0\1935.~(3).SchLib
+DocumentPath=原理图库\1935.~(3).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UUIUDTER
 
 [Document13]
-DocumentPath=..\Altium\History\00000000370B04F0\demo2.~(19).SchLib
+DocumentPath=原理图库\demo2.~(19).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,41 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PSXQOBAN
 
 [Document14]
-DocumentPath=..\Altium\History\00000000370B04F0\LT3013.~(1).SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JGXQUPMV
-
-[Document15]
-DocumentPath=..\Altium\History\00000000370B04F0\MPPC_S13720-1325PS (1).~(1).SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BYIRFWPV
-
-[Document16]
-DocumentPath=..\Altium\History\00000000370B04F0\OPA656.~(3).SchLib
+DocumentPath=原理图库\OPA656.~(3).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
