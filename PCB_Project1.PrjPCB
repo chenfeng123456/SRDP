@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LABYGMAV
 
 [Document4]
+DocumentPath=封装库\8494.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OWYHVTTV
+
+[Document5]
 DocumentPath=封装库\opa656.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCHHAJSE
 
-[Document5]
+[Document6]
 DocumentPath=封装库\s13720.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDBYMSIE
 
-[Document6]
+[Document7]
 DocumentPath=封装库\3013.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUWODQKH
 
-[Document7]
+[Document8]
 DocumentPath=..\Altium\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RICAOKUN
 
-[Document8]
+[Document9]
 DocumentPath=..\Altium\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,9 +188,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AINCFCKT
+DocumentUniqueId=BYIRFWPV
 
-[Document9]
+[Document10]
 DocumentPath=原理图库\78L05.~(5).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXECJITB
 
-[Document10]
+[Document11]
 DocumentPath=原理图库\LT3013.~(1).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGXQUPMV
 
-[Document11]
+[Document12]
+DocumentPath=原理图库\8494.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VULOPBCX
+
+[Document13]
 DocumentPath=原理图库\MPPC_S13720-1325PS (1).~(1).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,9 +256,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BYIRFWPV
+DocumentUniqueId=PSQSJRLA
 
-[Document12]
+[Document14]
 DocumentPath=原理图库\1935.~(3).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUIUDTER
 
-[Document13]
+[Document15]
 DocumentPath=原理图库\demo2.~(19).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSXQOBAN
 
-[Document14]
+[Document16]
 DocumentPath=原理图库\OPA656.~(3).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAEQXQBO
 
-[Document15]
+[Document17]
 DocumentPath=原理图库\C11204-01.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONEDCDDE
 
-[Document16]
+[Document18]
 DocumentPath=封装库\C11204-01.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
